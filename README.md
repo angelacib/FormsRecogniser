@@ -1,2 +1,2 @@
 # FormsRecogniser
-Microsoft Froms Recogniser
+Microsoft Forms Recogniser
